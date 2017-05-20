@@ -1,5 +1,5 @@
 # Monosert.vim
-A dark color scheme for Vim inspired by monokai and desert.
+A dark color scheme for Vim inspired by [monokai](https://github.com/crusoexia/vim-monokai/blob/master/colors/monokai.vim) and [desert](https://github.com/fugalh/desert.vim).
 ## Installation
 1.Copy colors/Monosert.vim to:
 > ~/.vim/colors/Monosert.vim
