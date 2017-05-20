@@ -7,9 +7,9 @@ A dark color scheme for Vim inspired by monokai and desert.
 or alternatively,use a plugin manger such as [Vundle](https://github.com/VundleVim/Vundle.vim),[vim-plug](https://github.com/junegunn/vim-plug) and so on.
 
 2.Add to ~/.vimrc
-> set background=dark </ br>
-> set t_Co=256 </ br>
-> colorscheme Monosert </ br>
+> set background=dark     
+> set t_Co=256       
+> colorscheme Monosert
 
 ## Screenshots
 ![](https://github.com/SorelCheung/Monosert.vim/blob/master/screenshot/screenshot.png)
